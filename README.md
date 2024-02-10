@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Madhurima Bhaumik</h1>
+<h3 align="left">Welcome to my page!<br>
+<h3 align="left">A passionate coder based in Kolkata,West Bengal. With a blend of creativity and technical expertise, I strive to become . I have a strong background in front-end development, machine learning and data science, and I'm constantly exploring new ways to learn and achieve new skills.</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![intagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
+</p>
 
 <!--
 **madhurima-564/madhurima-564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

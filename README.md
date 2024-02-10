@@ -1,6 +1,11 @@
-<h1 align="center">Hi <img align="" height="30" src="https://github.com/madhurima-564/madhurima-564/assets/87948004/ff5cc321-d270-4a12-9d5a-eba4f11b6d8a"  /> , I'm Madhurima Bhaumik</h1>
-<h3 align="left">Welcome to my page!<br>
-<h3 align="left">I am a passionate coder based in Kolkata,West Bengal. With a blend of creativity and technical expertise, I strive to become . I have a strong background in front-end development, machine learning and data science, and I'm constantly exploring new ways to learn and achieve new skills.</h3>
+<h1 align="center">Hey <img align="" height="30" src="https://github.com/madhurima-564/madhurima-564/assets/87948004/ff5cc321-d270-4a12-9d5a-eba4f11b6d8a"  /> Welcome to my Page</h1>
+<h3 align="left">I'am Madhurima Bhaumik, From <img align="" height="20" src="https://github.com/madhurima-564/madhurima-564/assets/87948004/a69b8ae5-69c5-4f98-90ae-787a30c80c9f"  /> West Bengal, India<br></h3>
+
+## About me
+- 👨‍💻 I am a Frontend Developer. 
+- 🌱 I’m currently learning Machine Learning.
+- ✨ Goals: learning and sharpening more new skills .
+- 🎶 I love to sing and read novels 📖.
 
 ## <img align="" height="20" src="https://github.com/madhurima-564/madhurima-564/assets/87948004/7995f6e6-de8c-4a08-8ca8-93924465b4aa"  /> Tech Stack:
 
@@ -10,6 +15,10 @@
 ###
 
 <br>
+
+
+
+
 
 ## Github Stats  
 

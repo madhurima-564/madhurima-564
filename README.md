@@ -51,6 +51,10 @@
 </div>
 
 ###
+![Snake animation](https://github.com/madhurima-564/madhurima-564/blob/output/snake.svg)
+
+
+
 
 <br clear="both">
 
